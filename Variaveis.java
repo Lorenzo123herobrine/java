@@ -9,6 +9,6 @@ public class Variaveis{
         boolean casado = true;
 
         System.out.println ("Meu nome é "+meuNome+" minha idade é "+idade+" anos e tenho "+altura+" de altura");
-        System.out.print ("Sou casado? "+casado);
+        System.out.print ("Sou casado? "+casado+" e meu sexo é "+sexo);
     }
 }
